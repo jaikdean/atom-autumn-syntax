@@ -1,14 +1,14 @@
 {
-  "name": "minimal-syntax",
+  "name": "autumn-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Autumnal browns and oranges. Based on the Textmate theme by Minimal Design LLC",
   "keywords": [
     "syntax",
     "theme",
-    "minimal"
+    "autumn"
   ],
-  "repository": "https://github.com/jaikdean/atom-minimal-syntax",
+  "repository": "https://github.com/jaikdean/atom-autumn-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

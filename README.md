@@ -1,4 +1,4 @@
-# Atom Minimal Syntax Theme
+# Atom Autumn Syntax Theme
 
 *Based on the Textmate theme by Minimal Design LLC found [here]
 (http://minimaldesign.net/downloads/tools/textmate-theme).*
