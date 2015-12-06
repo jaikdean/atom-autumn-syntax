@@ -1,3 +1,6 @@
+## 0.2.1
+* Fixed grammar in theme description
+
 ## 0.2.0
 * Renamed to avoid conflict with existing *minimal-syntax* theme
 
