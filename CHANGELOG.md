@@ -1,3 +1,6 @@
+## 0.3.0
+* Upgraded class names to Atom >= 1.13 format
+
 ## 0.2.1
 * Fixed grammar in theme description
 
